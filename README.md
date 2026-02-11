@@ -1,4 +1,3 @@
-Perfekt, dann ohne Trademark-Abschnitt. Hier ist deine **fertige README.md** zum Copy-Paste.
 
 ---
 
