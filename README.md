@@ -12,6 +12,16 @@ Perfekt, dann ohne Trademark-Abschnitt. Hier ist deine **fertige README.md** zum
   <img src="assets/logo.png" alt="YouHost Logo" width="220">
 </p>
 
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/status-active-success.svg">
+<img src="https://img.shields.io/badge/license-MIT-blue.svg">
+<img src="https://img.shields.io/badge/docker-ready-blue">
+<img src="https://img.shields.io/badge/platform-linux-lightgrey">
+
+</p>
+
 ---
 
 ## 🚀 About
