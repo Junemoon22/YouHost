@@ -15,9 +15,17 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/status-active-success.svg">
+<img src="https://img.shields.io/github/v/release/Junemoon22/YouHos?display_name=tag">
+<img src="https://img.shields.io/github/last-commit/Junemoon22/YouHos">
+<img src="https://img.shields.io/github/issues/Junemoon22/YouHos">
+<img src="https://img.shields.io/github/stars/Junemoon22/YouHost?style=social">
+
+<br>
+
 <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 <img src="https://img.shields.io/badge/docker-ready-blue">
 <img src="https://img.shields.io/badge/platform-linux-lightgrey">
+<img src="https://img.shields.io/badge/made%20in-Germany-red">
 
 </p>
 
