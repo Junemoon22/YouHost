@@ -102,16 +102,12 @@ Indie spirit. Fair pricing. Clean infrastructure.
 
 Coming soon.
 
+## 💬 Support
+
+For questions or feedback, open an issue.
+
 ---
 
 ### Made with ❤️ in Germany 🇩🇪
 
 ---
-
-Jetzt fehlt nur noch:
-
-```
-/assets/logo.png
-```
-
-reinlegen → dann wird es oben angezeigt.
