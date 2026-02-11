@@ -15,9 +15,9 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/status-active-success.svg">
-<img src="https://img.shields.io/github/v/release/Junemoon22/YouHos?display_name=tag">
-<img src="https://img.shields.io/github/last-commit/Junemoon22/YouHos">
-<img src="https://img.shields.io/github/issues/Junemoon22/YouHos">
+<img src="https://img.shields.io/github/v/release/Junemoon22/YouHost?display_name=tag">
+<img src="https://img.shields.io/github/last-commit/Junemoon22/YouHost">
+<img src="https://img.shields.io/github/issues/Junemoon22/YouHost">
 <img src="https://img.shields.io/github/stars/Junemoon22/YouHost?style=social">
 
 <br>
